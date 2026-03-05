@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshat Singh</h1>
-<h3 align="center">Computer Science Student | Developer | AI & Systems Enthusiast</h3>
+<h2 align="center">Computer Science Student | Developer | AI & Systems Enthusiast</h2>
 
 <p align="center">
 Building software, experimenting with ML models and exploring scalable systems.
+</p>
+<p align="center">
 Loves To Work in Interdisciplinary CS projects.
+</p>
+<p align="center">
 Definitely want's to Research more.🔎
 </p>
 
