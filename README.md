@@ -3,6 +3,8 @@
 
 <p align="center">
 Building software, experimenting with ML models and exploring scalable systems.
+Loves To Work in Interdisciplinary CS projects.
+Definitely want's to Research more.🔎
 </p>
 
 ---
