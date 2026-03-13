@@ -106,8 +106,4 @@ Definitely want's to Research more.🔎
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=AkshatSingh2005&color=blue"/>
-</p>
