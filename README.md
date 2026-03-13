@@ -103,3 +103,11 @@ Definitely want's to Research more.🔎
 ---
 
 ⭐ *Always curious to learn new technologies and build interesting things.*
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AkshatSingh2005&color=blue"/>
+</p>
